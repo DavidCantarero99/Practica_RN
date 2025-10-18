@@ -1,0 +1,12 @@
+Para añadir una captura de pantalla a tu README:
+
+1. Haz una captura de pantalla de la aplicación BookingBolt en tu dispositivo móvil.
+   - Puedes usar la pantalla About que acabamos de crear o cualquier otra pantalla relevante.
+
+2. Transfiere la imagen a tu PC y guárdala como "app_screenshot.png" en esta carpeta.
+
+3. Ajusta el tamaño de la imagen si es necesario (recomendado: 300-500px de ancho).
+
+4. La imagen se mostrará automáticamente en el README.md una vez subida a GitHub.
+
+Si prefieres, puedes también añadir múltiples capturas de pantalla y actualizar las referencias en el README.md para mostrar una galería completa de la aplicación.
